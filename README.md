@@ -1,6 +1,8 @@
-# -2023-Travelers-Analytics-Case-Competition-
+# 2023-Travelers-Analytics-Case-Competition-
 Task is to provide a method for predicting the claim cost for each policy and to convince  business partner that  predictions will work well. The dataset link is here-- https://www.kaggle.com/competitions/2023-travelers-university-competition/data.
 The InsNova data set is based on one-year vehicle insurance policies from 2004 to 2005. There are 45,239 policies, of which around 6.8% had at least one claim. The data is split to two parts: training data and validation data. In the validation and holdout data, claimcst0 (claim cost), clm (claim indicator) and numclaims (claim counts) are omitted. You can build your model on the training data. In the end, use your best model to score the validation and holdout data. We will evaluate your model based on your validation and holdout data prediction.
+
+# Lead a team of 4 in this competetion and ranked  2 overall on this Competation. Team name Pidata.
 
 Files
 InsNova_data_2023_train.csv - the training set
